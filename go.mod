@@ -1,4 +1,4 @@
-module go-graphql-mongodb
+module github.com/anup-gupta1/go-graphql-mongodb
 
 go 1.13
 
